@@ -1,0 +1,35 @@
+{
+    "name": "SwayamCodes - Learn to Code",
+    "short_name": "SwayamCodes",
+    "icons": [
+        {
+            "src": "/src/assets/swayamcodes-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/src/assets/swayamcodes-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/src/assets/swayamcodes-48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/src/assets/swayamcodes.PNG",
+            "type": "image/PNG",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#000000",
+    "description": "SwayamCodes - Learn to Code",
+    "dir": "ltr",
+    "lang": "en-US"
+}
